@@ -1,10 +1,11 @@
-# Getting Started with Create React App
+### `Prerequisite`
+Make sure to have node installed in the system
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-## Available Scripts
+### `Node moduled`
+Clone the repository, open the terminal and get into cloned repo directory from terminal then run ___npm installed___ to get all the packages
 
-In the project directory, you can run:
+once done...
 
 ### `npm start`
 
