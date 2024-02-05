@@ -21,3 +21,5 @@ ___Allow the access permission asked by browser to use your Microphone and Camer
 
 ## `End streaming`
 Click on 'End Stream' button to end the connection with remote user.
+
+###`east peasy`
